@@ -57,4 +57,5 @@ export default {
   closeHint: 'Schließen',
   timeHint: 'Uhrzeit',
   eventHint: 'Ereignis',
+  resourcesText: 'Resourcen',
 } as LocaleInput

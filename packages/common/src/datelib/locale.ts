@@ -51,6 +51,7 @@ const MINIMAL_RAW_EN_LOCALE = {
   allDayText: 'all-day',
   moreLinkText: 'more',
   noEventsText: 'No events to display',
+  resourcesText: 'Resources',
 }
 
 const RAW_EN_LOCALE = {
